@@ -1,0 +1,7 @@
+①https://github.com/shadowsocks/shadowsocks-windows/releases
+②https://github.com/shadowsocks/shadowsocks-windows
+③https://free-ss.site/
+(1)下载①里的Shadowsocks-4.1.9.2.zip
+Source code.zip
+解压，将shadowsocks.exe放到另一个解压文件里，如果不能直接打开运行，则进入②下载补丁.NET Framework 4.7.2，选择中文并安装好。如果能打开，另外一个补丁就不用安装了。
+接下来打开③获取免费上网账号，然后点击二维码，然后右击工具，选择服务器--扫描屏幕上的二维码，确定之后还不能翻墙上网。右击启用系统代理，然后再右击，选择全局代理模式。
